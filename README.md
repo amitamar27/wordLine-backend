@@ -14,7 +14,7 @@
     <ol>
         <li>Clone the repository to your local machine:</li>
     </ol>
-    <pre><code>git clone https://github.com/your_username/posts-app.gitcd posts-app</code></pre>
+    <pre><code>git clone https://github.com/amitamar27/wordLine-backend.git</code></pre>
 
 <ol>
         <li>Set Environment Variable for the Database Password:</li>
