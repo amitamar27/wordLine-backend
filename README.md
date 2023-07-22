@@ -3,12 +3,12 @@
 
 <p>The Posts app is a simple application that allows users to manage and view posts. This README file provides instructions on how to set up and run the app.</p>
 
-<h2>Prerequisites</h2>
-<p>Before installing the app, ensure you have the following prerequisites:</p>
-    <ul>
-        <li>Python (>= 3.6)</li>
-        <li>Pip (Python package manager)</li>
-    </ul>
+<ul>
+    <li># environment variable for database password</li>
+    <li># export SQL_PASS ='your_db_pass'git</li>
+    <li># cd backend && pip install requirements.txt</li>
+    <li># run the app from backend/app with uvicorn main:app</li>
+</ul>
 
 <h2>Installation</h2>
     <ol>
