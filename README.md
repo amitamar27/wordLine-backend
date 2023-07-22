@@ -25,7 +25,7 @@
 <ol start="3">
     <li>Install Dependencies:</li>
 </ol>
-    <pre><code>cd backend pip install -r requirements.txt</code></pre>
+    <pre><code>cd backend && pip install requirements.txt</code></pre>
 
 <ol start="4">
         <li>Run the App in <strong>backend/app</strong> :</li>
